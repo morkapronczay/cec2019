@@ -1,3 +1,9 @@
 pandas
+numpy
 nltk
 tqdm
+textblob
+sklearn
+matplotlib
+seaborn
+hyperopt
