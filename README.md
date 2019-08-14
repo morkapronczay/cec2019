@@ -1,9 +1,19 @@
 # cec2019
+
 Materials for CEC 2019 Data Science in Business
 
-To start:
+## ESSENTIALS
 
-`pip install -r requirements.txt`
+1. `pip install -r requirements.txt`
 
-`python install_reqs.py`
+2. `python install_reqs.py`
 
+### To start text-mining-project.ipynb:
+
+3a. unzip the .rar file in data folder to get .json with the same name
+
+4a. start the notebook
+
+### To start text-mining-project.ipynb:
+
+3b. start the notebook
