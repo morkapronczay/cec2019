@@ -2,7 +2,7 @@
 
 Materials for CEC 2019 Data Science in Business
 
-## ESSENTIALS
+## Essentials
 
 1. `pip install -r requirements.txt`
 
