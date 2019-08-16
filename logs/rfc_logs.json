@@ -17,3 +17,4 @@
 {"target": 0.41476873081214477, "params": {"max_features": 0.999, "min_samples_split": 0.001, "n_estimators": 565.2102184499948}, "datetime": {"datetime": "2019-08-16 06:45:13", "elapsed": 41079.486708, "delta": 7017.257818}}
 {"target": 0.4256563133206163, "params": {"max_features": 0.1, "min_samples_split": 0.001, "n_estimators": 45.99656772424651}, "datetime": {"datetime": "2019-08-16 06:46:45", "elapsed": 41171.473431, "delta": 91.986723}}
 {"target": 0.35372068001482915, "params": {"max_features": 0.999, "min_samples_split": 0.2, "n_estimators": 895.3399690388358}, "datetime": {"datetime": "2019-08-16 07:59:44", "elapsed": 45550.81096, "delta": 4379.337529}}
+{"target": 0.35432074002082975, "params": {"max_features": 0.999, "min_samples_split": 0.2, "n_estimators": 961.7710527912147}, "datetime": {"datetime": "2019-08-16 09:17:47", "elapsed": 50233.612793, "delta": 4682.801833}}
