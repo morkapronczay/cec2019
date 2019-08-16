@@ -7,3 +7,6 @@ sklearn
 matplotlib
 seaborn
 hyperopt
+tqdm
+bayesian_optimization
+hyperopt

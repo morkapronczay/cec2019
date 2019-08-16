@@ -14,6 +14,10 @@ Materials for CEC 2019 Data Science in Business
 
 4a. start the notebook
 
-### To start text-mining-project.ipynb:
+### To start any other notebook:
 
 3b. start the notebook
+
+### Data
+
+<a href=https://www.kaggle.com/rmisra/news-category-dataset/kernels>Kaggle News Dataset</a>
